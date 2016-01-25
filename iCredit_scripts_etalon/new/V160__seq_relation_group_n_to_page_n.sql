@@ -1,0 +1,4 @@
+CREATE SEQUENCE icredit.seq_relation_group_n_to_page_n
+  INCREMENT 1 MINVALUE 1
+  MAXVALUE 9999999999999999 START 1
+  CACHE 1;
