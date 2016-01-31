@@ -2,7 +2,7 @@
 
 INSERT INTO icredit.contacts ("created", "created_by", "last_updated", "last_updated_by", "last_name", "first_name", "midle_name", "residency", "income_monthly", "income_family", "employment_type", "work_place", "work_position", "sex", "education", "date_birsday", "family_count", "id_tax", "married", "citizenship", "localisation")
 VALUES
-  ('2016-01-31 19:29:01', 1, '2016-01-31 19:29:01', 1, 'Андронов', 'Игорь', 'Олегович', 'R', 1000, 10000, 1, 'Luxoft', 'Programer', 1, 1, '1974-01-18', 3, '1234567890', True, '980', 'РУС');
+  ('2016-01-31 19:29:01', 1, '2016-01-31 19:29:01', 1, 'Андронов', 'Игорь', 'Олегович', 'R', 1000, 10000, 1, 'Luxoft', 'Programer', 1, 1, '1974-01-18', 3, '1234567890', True, '980', 'RUS');
 
 INSERT INTO icredit.contacts_www ("created", "created_by", "last_updated", "last_updated_by", "id_contact", "name", "name_type", "active", "use_for_correspondence")
 VALUES
