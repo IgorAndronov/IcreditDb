@@ -1,4 +1,4 @@
-`CREATE TABLE icredit.relation_group_n_to_page_n (
+CREATE TABLE icredit.relation_group_n_to_page_n (
   id INTEGER DEFAULT nextval('icredit.seq_relation_group_n_to_page_n'::regclass) NOT NULL,
   contact_page_number INTEGER NOT NULL,
   contact_block_number INTEGER NOT NULL UNIQUE,

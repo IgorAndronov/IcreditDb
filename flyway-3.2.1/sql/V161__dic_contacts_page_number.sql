@@ -22,6 +22,6 @@ VALUES(1039,2,1);
 insert into icredit.dic_values (id,name,comment,localisation)
 values(1039,'Address information','Address information','ENG');
 insert into icredit.dic_values (id,name,comment,localisation)
-values(1039,'Адресс','Адреса проживания и регистрации заемщика','РУС');
+values(1039,'Адресс','Адреса проживания и регистрации заемщика','RUS');
 insert into icredit.dic_values (id,name,comment,localisation)
-values(1039,'Адреса','Адреса реєстрації та мешкання позичальника','УКР');
+values(1039,'Адреса','Адреса реєстрації та мешкання позичальника','UKR');

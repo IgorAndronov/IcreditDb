@@ -8,19 +8,19 @@ INSERT INTO icredit.dic_district_type(id, value,value_parent, active)  VALUES(98
 
 
 insert into icredit.dic_values (id,name,comment,localisation) values(983,'Svyatoshinskiy','Svyatoshinskiy district','ENG');
-insert into icredit.dic_values (id,name,comment,localisation) values(983,'Святошинский','Святошинский район г.Киев','РУС');
-insert into icredit.dic_values (id,name,comment,localisation) values(983,'Святошинський','Святошинський район','УКР');
+insert into icredit.dic_values (id,name,comment,localisation) values(983,'Святошинский','Святошинский район г.Киев','RUS');
+insert into icredit.dic_values (id,name,comment,localisation) values(983,'Святошинський','Святошинський район','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) values(984,'Solomenskiy ','Solomenskiy  district','ENG');
-insert into icredit.dic_values (id,name,comment,localisation) values(984,'Соломенский','Соломенский район г.Киев','РУС');
-insert into icredit.dic_values (id,name,comment,localisation) values(984,'Соломеннський','Соломеннський район','УКР');
+insert into icredit.dic_values (id,name,comment,localisation) values(984,'Соломенский','Соломенский район г.Киев','RUS');
+insert into icredit.dic_values (id,name,comment,localisation) values(984,'Соломеннський','Соломеннський район','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) values(985,'Pecherskiy','Pecherskiy district','ENG');
-insert into icredit.dic_values (id,name,comment,localisation) values(985,'Печерский','	Печерский район г.Киев','РУС');
-insert into icredit.dic_values (id,name,comment,localisation) values(985,'Печерський','Печерський район','УКР');
+insert into icredit.dic_values (id,name,comment,localisation) values(985,'Печерский','	Печерский район г.Киев','RUS');
+insert into icredit.dic_values (id,name,comment,localisation) values(985,'Печерський','Печерський район','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) values(986,'Darnytskyi','Darnytskyi district','ENG');
-insert into icredit.dic_values (id,name,comment,localisation) values(986,'Дарницкий','	Дарницкий район г.Киев','РУС');
-insert into icredit.dic_values (id,name,comment,localisation) values(986,'Дарницький','Дарницький район','УКР');
+insert into icredit.dic_values (id,name,comment,localisation) values(986,'Дарницкий','	Дарницкий район г.Киев','RUS');
+insert into icredit.dic_values (id,name,comment,localisation) values(986,'Дарницький','Дарницький район','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) values(987,'Obolon','Obolon district','ENG');
-insert into icredit.dic_values (id,name,comment,localisation) values(987,'Оболонский','	Оболонский район г.Киев','РУС');
-insert into icredit.dic_values (id,name,comment,localisation) values(987,'Оболонський','Оболонський район','УКР');
+insert into icredit.dic_values (id,name,comment,localisation) values(987,'Оболонский','	Оболонский район г.Киев','RUS');
+insert into icredit.dic_values (id,name,comment,localisation) values(987,'Оболонський','Оболонський район','UKR');
 
 -----------------------------------------------------------

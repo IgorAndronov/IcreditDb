@@ -1,4 +1,4 @@
--- Заполнение справочника dic_area_type
+-- Р—Р°РїРѕР»РЅРµРЅРёРµ СЃРїСЂР°РІРѕС‡РЅРёРєР° dic_area_type
 
 INSERT INTO icredit.dic_area_type(id, value, active)
 VALUES(	42,11,1);
@@ -56,165 +56,165 @@ INSERT INTO icredit.dic_area_type(id, value, active)
 VALUES(	68,29,1);
 
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(42,'AR Creamia','Autonomous respublіk Cream','ENG');
+values(42,'AR Creamia','Autonomous respublС–k Cream','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(42,'АР Крым','Автономная республика Крым','РУС');
+values(42,'РђР  РљСЂС‹Рј','РђРІС‚РѕРЅРѕРјРЅР°СЏ СЂРµСЃРїСѓР±Р»РёРєР° РљСЂС‹Рј','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(42,'АР Крим','Автономна респпубліка Крим','УКР');
+values(42,'РђР  РљСЂРёРј','РђРІС‚РѕРЅРѕРјРЅР° СЂРµСЃРїРїСѓР±Р»С–РєР° РљСЂРёРј','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(43,'Kharkiv','of Kharkiv region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(43,'Харьковская','Харьковская область','РУС');
+values(43,'РҐР°СЂСЊРєРѕРІСЃРєР°СЏ','РҐР°СЂСЊРєРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(43,'Харківська','Харківська область','УКР');
+values(43,'РҐР°СЂРєС–РІСЃСЊРєР°','РҐР°СЂРєС–РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(44,'Donetsk','of  Donetsk region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(44,'Донецкая','Донецкая область','РУС');
+values(44,'Р”РѕРЅРµС†РєР°СЏ','Р”РѕРЅРµС†РєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(44,'Донецька','Донецька область','УКР');
+values(44,'Р”РѕРЅРµС†СЊРєР°','Р”РѕРЅРµС†СЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(45,'Vinnytsia','of Vinnytsia region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(45,'Винницькая','Винницькая область','РУС');
+values(45,'Р’РёРЅРЅРёС†СЊРєР°СЏ','Р’РёРЅРЅРёС†СЊРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(45,'Вінницька','Вінницька область','УКР');
+values(45,'Р’С–РЅРЅРёС†СЊРєР°','Р’С–РЅРЅРёС†СЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(46,'Volyn','Volyn region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(46,'Волынськая','Волынськая область','РУС');
+values(46,'Р’РѕР»С‹РЅСЃСЊРєР°СЏ','Р’РѕР»С‹РЅСЃСЊРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(46,'Волинська','Волинська область','УКР');
+values(46,'Р’РѕР»РёРЅСЃСЊРєР°','Р’РѕР»РёРЅСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(47,'Dnipropetrovsk','of Dnipropetrovsk region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(47,'Днепропетровская','Днепропетровская область','РУС');
+values(47,'Р”РЅРµРїСЂРѕРїРµС‚СЂРѕРІСЃРєР°СЏ','Р”РЅРµРїСЂРѕРїРµС‚СЂРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(47,'Дніпропетровська','Дніпропетровська область','УКР');
+values(47,'Р”РЅС–РїСЂРѕРїРµС‚СЂРѕРІСЃСЊРєР°','Р”РЅС–РїСЂРѕРїРµС‚СЂРѕРІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(48,'Zhytomyr','of Zhytomyr region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(48,'Житомирская','Житомирская область','РУС');
+values(48,'Р–РёС‚РѕРјРёСЂСЃРєР°СЏ','Р–РёС‚РѕРјРёСЂСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(48,'Житомирська','Житомирська область','УКР');
+values(48,'Р–РёС‚РѕРјРёСЂСЃСЊРєР°','Р–РёС‚РѕРјРёСЂСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(49,'Zakarpattya','Zakarpattya region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(49,'Закарпатская','Закарпатская область','РУС');
+values(49,'Р—Р°РєР°СЂРїР°С‚СЃРєР°СЏ','Р—Р°РєР°СЂРїР°С‚СЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(49,'Закарпатська','Закарпатська область','УКР');
+values(49,'Р—Р°РєР°СЂРїР°С‚СЃСЊРєР°','Р—Р°РєР°СЂРїР°С‚СЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(50,'Zaporizhzhia','Zaporizhzhia region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(50,'Запорожская','Запорожская область','РУС');
+values(50,'Р—Р°РїРѕСЂРѕР¶СЃРєР°СЏ','Р—Р°РїРѕСЂРѕР¶СЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(50,'Запорожська','Запорожзька область','УКР');
+values(50,'Р—Р°РїРѕСЂРѕР¶СЃСЊРєР°','Р—Р°РїРѕСЂРѕР¶Р·СЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(51,'Ivano-Frankivsk','Ivano-Frankivsk region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(51,'Ивано-Франковская','Ивано-Франковская область','РУС');
+values(51,'РРІР°РЅРѕ-Р¤СЂР°РЅРєРѕРІСЃРєР°СЏ','РРІР°РЅРѕ-Р¤СЂР°РЅРєРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(51,'Івано-Франківська','Івано-Франківська область','УКР');
+values(51,'Р†РІР°РЅРѕ-Р¤СЂР°РЅРєС–РІСЃСЊРєР°','Р†РІР°РЅРѕ-Р¤СЂР°РЅРєС–РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(52,'Kiev','Kiev region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(52,'Киевская','Киевская область','РУС');
+values(52,'РљРёРµРІСЃРєР°СЏ','РљРёРµРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(52,'Київська','Київська область','УКР');
+values(52,'РљРёС—РІСЃСЊРєР°','РљРёС—РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(53,'Kirovohrad','Kirovohrad region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(53,'Кировоградская','Кировоградская область','РУС');
+values(53,'РљРёСЂРѕРІРѕРіСЂР°РґСЃРєР°СЏ','РљРёСЂРѕРІРѕРіСЂР°РґСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(53,'Кировоградська','Кировоградська область','УКР');
+values(53,'РљРёСЂРѕРІРѕРіСЂР°РґСЃСЊРєР°','РљРёСЂРѕРІРѕРіСЂР°РґСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(54,'Luhansk','Luhansk region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(54,'Луганская','Луганская область','РУС');
+values(54,'Р›СѓРіР°РЅСЃРєР°СЏ','Р›СѓРіР°РЅСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(54,'Луганська','Луганська область','УКР');
+values(54,'Р›СѓРіР°РЅСЃСЊРєР°','Р›СѓРіР°РЅСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(55,'Lviv','Lviv region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(55,'Львовская','Львовская область','РУС');
+values(55,'Р›СЊРІРѕРІСЃРєР°СЏ','Р›СЊРІРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(55,'Львівська','Львівська область','УКР');
+values(55,'Р›СЊРІС–РІСЃСЊРєР°','Р›СЊРІС–РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(56,'Mykolaiv','Mykolaiv region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(56,'Николаевская','Николаевская область','РУС');
+values(56,'РќРёРєРѕР»Р°РµРІСЃРєР°СЏ','РќРёРєРѕР»Р°РµРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(56,'Миколаєвська','Миколаєвська область','УКР');
+values(56,'РњРёРєРѕР»Р°С”РІСЃСЊРєР°','РњРёРєРѕР»Р°С”РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(57,'Odesa','Odesa region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(57,'Одесская','Одесская область','РУС');
+values(57,'РћРґРµСЃСЃРєР°СЏ','РћРґРµСЃСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(57,'Одеська','Одеська область','УКР');
+values(57,'РћРґРµСЃСЊРєР°','РћРґРµСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(58,'Poltava','Poltava region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(58,'Полтавская','Полтавская область','РУС');
+values(58,'РџРѕР»С‚Р°РІСЃРєР°СЏ','РџРѕР»С‚Р°РІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(58,'Полтавська','Полтавська область','УКР');
+values(58,'РџРѕР»С‚Р°РІСЃСЊРєР°','РџРѕР»С‚Р°РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(59,'Rivne','Rivne region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(59,'Ровенская','Ровенская область','РУС');
+values(59,'Р РѕРІРµРЅСЃРєР°СЏ','Р РѕРІРµРЅСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(59,'Рівненська','Рівненська область','УКР');
+values(59,'Р С–РІРЅРµРЅСЃСЊРєР°','Р С–РІРЅРµРЅСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(60,'Sumy','Sumy region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(60,'Сумская','Сумская область','РУС');
+values(60,'РЎСѓРјСЃРєР°СЏ','РЎСѓРјСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(60,'Сумська','Сумська область','УКР');
+values(60,'РЎСѓРјСЃСЊРєР°','РЎСѓРјСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(61,'Ternopil region','Ternopil region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(61,'Тернопольская','Тернопольская область','РУС');
+values(61,'РўРµСЂРЅРѕРїРѕР»СЊСЃРєР°СЏ','РўРµСЂРЅРѕРїРѕР»СЊСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(61,'Тернопільська','Тернопільська область','УКР');
+values(61,'РўРµСЂРЅРѕРїС–Р»СЊСЃСЊРєР°','РўРµСЂРЅРѕРїС–Р»СЊСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(62,'Kherson','Kherson region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(62,'Херсонская','Херсонская область','РУС');
+values(62,'РҐРµСЂСЃРѕРЅСЃРєР°СЏ','РҐРµСЂСЃРѕРЅСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(62,'Херсонська','Херсонська область','УКР');
+values(62,'РҐРµСЂСЃРѕРЅСЃСЊРєР°','РҐРµСЂСЃРѕРЅСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(63,'Khmelnytskyi',' Khmelnytskyi region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(63,'Хмельницкая','Хмельницька область','РУС');
+values(63,'РҐРјРµР»СЊРЅРёС†РєР°СЏ','РҐРјРµР»СЊРЅРёС†СЊРєР° РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(63,'Хмельницька','Хмельницька область','УКР');
+values(63,'РҐРјРµР»СЊРЅРёС†СЊРєР°','РҐРјРµР»СЊРЅРёС†СЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(64,'Cherkasy','Cherkasy region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(64,'Черкаская','Черкаская область','РУС');
+values(64,'Р§РµСЂРєР°СЃРєР°СЏ','Р§РµСЂРєР°СЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(64,'Черкаська','Черкаська область','УКР');
+values(64,'Р§РµСЂРєР°СЃСЊРєР°','Р§РµСЂРєР°СЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(65,'Chernivtsi','Chernivtsi region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(65,'Черновецкая','Черновецкая область','РУС');
+values(65,'Р§РµСЂРЅРѕРІРµС†РєР°СЏ','Р§РµСЂРЅРѕРІРµС†РєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(65,'Чернівецька','Чернівецька область','УКР');
+values(65,'Р§РµСЂРЅС–РІРµС†СЊРєР°','Р§РµСЂРЅС–РІРµС†СЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(66,'Chernihiv','Chernihiv region','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(66,'Черниговская','Черниговская область','РУС');
+values(66,'Р§РµСЂРЅРёРіРѕРІСЃРєР°СЏ','Р§РµСЂРЅРёРіРѕРІСЃРєР°СЏ РѕР±Р»Р°СЃС‚СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(66,'Чернігівська','Чернігівська область','УКР');
+values(66,'Р§РµСЂРЅС–РіС–РІСЃСЊРєР°','Р§РµСЂРЅС–РіС–РІСЃСЊРєР° РѕР±Р»Р°СЃС‚СЊ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(67,'Kiev','Kiev city','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(67,'Киев','город Киев','РУС');
+values(67,'РљРёРµРІ','РіРѕСЂРѕРґ РљРёРµРІ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(67,'Київ','місто Київ','УКР');
+values(67,'РљРёС—РІ','РјС–СЃС‚Рѕ РљРёС—РІ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(68,'Sevastopol','Sevastopol city	','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(68,'Севастополь','город Севастополь','РУС');
+values(68,'РЎРµРІР°СЃС‚РѕРїРѕР»СЊ','РіРѕСЂРѕРґ РЎРµРІР°СЃС‚РѕРїРѕР»СЊ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(68,'Севастопіль','місто Севастопіль','УКР');
+values(68,'РЎРµРІР°СЃС‚РѕРїС–Р»СЊ','РјС–СЃС‚Рѕ РЎРµРІР°СЃС‚РѕРїС–Р»СЊ','UKR');
 -----------------------------------------------------------------------

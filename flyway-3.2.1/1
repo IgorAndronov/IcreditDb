@@ -1,4 +1,20 @@
-CREATE OR REPLACE VIEW icredit.v_contacts_tech_spec(
+Flyway 3.2.1 by Boxfuse
+
+Database: jdbc:postgresql://localhost:5432/postgres (PostgreSQL 9.4)
+Validated 132 migrations (execution time 00:00.090s)
+Current version of schema "public": 162
+Migrating schema "public" to version 163 - REPLACE VIEW icredit.v contacts tech spec
+ERROR: Migration of schema "public" to version 163 failed! Changes successfully rolled back.
+ERROR: 
+Migration V163__REPLACE VIEW icredit.v_contacts_tech_spec.sql failed
+--------------------------------------------------------------------
+SQL State  : 42P01
+Error Code : 0
+Message    : ERROR: relation "icredit.dic_table_for_v_contact_tech_sp" does not exist
+  Позиция: 2583
+Location   : C:/Igor/JavaWork/DB/flyway-3.2.1/sql/V163__REPLACE VIEW icredit.v_contacts_tech_spec.sql (C:\Igor\JavaWork\DB\flyway-3.2.1\sql\V163__REPLACE VIEW icredit.v_contacts_tech_spec.sql)
+Line       : 1
+Statement  : CREATE OR REPLACE VIEW icredit.v_contacts_tech_spec(
     table_schema,
     table_name,
     column_name,
@@ -172,4 +188,5 @@ AS
            1,
            2,
            6,
-           3;
+           3
+

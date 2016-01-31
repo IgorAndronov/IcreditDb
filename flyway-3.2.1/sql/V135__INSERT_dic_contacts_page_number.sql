@@ -1,4 +1,4 @@
--- Заполнение справочника dic_area_type
+-- Р—Р°РїРѕР»РЅРµРЅРёРµ СЃРїСЂР°РІРѕС‡РЅРёРєР° dic_area_type
 
 INSERT INTO icredit.dic_contacts_page_number(id, value, active)
 VALUES(15,1,1);
@@ -15,32 +15,32 @@ VALUES(19,5,1);
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(15,'Personal Information','Last name? First name, born date ....','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(15,'Персональные данные','Персональные данные ФИО, год рождения и пр.','РУС');
+values(15,'РџРµСЂСЃРѕРЅР°Р»СЊРЅС‹Рµ РґР°РЅРЅС‹Рµ','РџРµСЂСЃРѕРЅР°Р»СЊРЅС‹Рµ РґР°РЅРЅС‹Рµ Р¤РРћ, РіРѕРґ СЂРѕР¶РґРµРЅРёСЏ Рё РїСЂ.','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(15,'Персональні дані','ПІБ, рік народження, та інша інф.','УКР');
+values(15,'РџРµСЂСЃРѕРЅР°Р»СЊРЅС– РґР°РЅС–','РџР†Р‘, СЂС–Рє РЅР°СЂРѕРґР¶РµРЅРЅСЏ, С‚Р° С–РЅС€Р° С–РЅС„.','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(16,'Documents','Documents confirming the identity of the borrower','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(16,'Документы','Документы удостоверяющие личность заемщика','РУС');
+values(16,'Р”РѕРєСѓРјРµРЅС‚С‹','Р”РѕРєСѓРјРµРЅС‚С‹ СѓРґРѕСЃС‚РѕРІРµСЂСЏСЋС‰РёРµ Р»РёС‡РЅРѕСЃС‚СЊ Р·Р°РµРјС‰РёРєР°','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(16,'Документи','Документи які посвідчують особу позичальника','УКР');
+values(16,'Р”РѕРєСѓРјРµРЅС‚Рё','Р”РѕРєСѓРјРµРЅС‚Рё СЏРєС– РїРѕСЃРІС–РґС‡СѓСЋС‚СЊ РѕСЃРѕР±Сѓ РїРѕР·РёС‡Р°Р»СЊРЅРёРєР°','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(17,'Phones number','Phones of the borrower','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(17,'Телефоны','	Телефоны заемщика','РУС');
+values(17,'РўРµР»РµС„РѕРЅС‹','	РўРµР»РµС„РѕРЅС‹ Р·Р°РµРјС‰РёРєР°','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(17,'Телефон','Телефони позичальника','УКР');
+values(17,'РўРµР»РµС„РѕРЅ','РўРµР»РµС„РѕРЅРё РїРѕР·РёС‡Р°Р»СЊРЅРёРєР°','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(18,'electronic channels','Тшсл name in social networks, e-mail and others','ENG');
+values(18,'electronic channels','РўС€СЃР» name in social networks, e-mail and others','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(18,'Электонные каналы','логины в соцсетях, почтовые ящики и прочее','РУС');
+values(18,'Р­Р»РµРєС‚РѕРЅРЅС‹Рµ РєР°РЅР°Р»С‹','Р»РѕРіРёРЅС‹ РІ СЃРѕС†СЃРµС‚СЏС…, РїРѕС‡С‚РѕРІС‹Рµ СЏС‰РёРєРё Рё РїСЂРѕС‡РµРµ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(18,'Єлектронні канали','Логіни до соціальних мереж, поштові скриньки та інше','УКР');
+values(18,'Р„Р»РµРєС‚СЂРѕРЅРЅС– РєР°РЅР°Р»Рё','Р›РѕРіС–РЅРё РґРѕ СЃРѕС†С–Р°Р»СЊРЅРёС… РјРµСЂРµР¶, РїРѕС€С‚РѕРІС– СЃРєСЂРёРЅСЊРєРё С‚Р° С–РЅС€Рµ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(19,'Additional Information','Additional Information','ENG');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(19,'Дополнительная информация','Дополнительная информация','РУС');
+values(19,'Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ','Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅР°СЏ РёРЅС„РѕСЂРјР°С†РёСЏ','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(19,'Додаткова інформація','Додаткова інформація','УКР');
+values(19,'Р”РѕРґР°С‚РєРѕРІР° С–РЅС„РѕСЂРјР°С†С–СЏ','Р”РѕРґР°С‚РєРѕРІР° С–РЅС„РѕСЂРјР°С†С–СЏ','UKR');
 
 -----------------------------------------------------------------------

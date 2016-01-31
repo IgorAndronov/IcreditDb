@@ -11,6 +11,6 @@ COMMENT ON COLUMN icredit.dic_table_for_v_contact_tech_sp.name
 IS 'Table name';
 
 INSERT INTO icredit.dic_table_for_v_contact_tech_sp ("name")
-VALUES (E'contacts');
+VALUES ('contacts');
 INSERT INTO icredit.dic_table_for_v_contact_tech_sp ("name")
-VALUES (E'contacts_pwd');
+VALUES ('contacts_pwd');

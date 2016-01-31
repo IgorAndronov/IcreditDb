@@ -1,74 +1,74 @@
--- Заполнение справочника dic_field_view_type 
+-- Р—Р°РїРѕР»РЅРµРЅРёРµ СЃРїСЂР°РІРѕС‡РЅРёРєР° dic_field_view_type 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (6, 'table', 1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(6,'Таблица','Указывает на тип обьекта, который будет отображен на экране. Тип является таблицей','РУС'); 
+values(6,'РўР°Р±Р»РёС†Р°','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ С‚Р°Р±Р»РёС†РµР№','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(6,'Таблиця','Вказує на тип об`єкту, який буде відображено на экрані. Тип є таблицею','УКР'); 
+values(6,'РўР°Р±Р»РёС†СЏ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” С‚Р°Р±Р»РёС†РµСЋ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(6,'Таблица','Indicates that type of object that will be displayed on the screen is tables type','ENG'); 
+values(6,'РўР°Р±Р»РёС†Р°','Indicates that type of object that will be displayed on the screen is tables type','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (7,'simple',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(7,'Простое','Указывает на тип обьекта, который будет отображен на экране. Тип является простым полем (текст или число)','РУС'); 
+values(7,'РџСЂРѕСЃС‚РѕРµ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ РїСЂРѕСЃС‚С‹Рј РїРѕР»РµРј (С‚РµРєСЃС‚ РёР»Рё С‡РёСЃР»Рѕ)','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(7,'Просте','Вказує на тип об`єкту, який буде відображено на экрані. Тип є простим полем (текст або число)','УКР'); 
+values(7,'РџСЂРѕСЃС‚Рµ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РїСЂРѕСЃС‚РёРј РїРѕР»РµРј (С‚РµРєСЃС‚ Р°Р±Рѕ С‡РёСЃР»Рѕ)','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(7,'Simple','Indicates that type of object that will be displayed on the screen is simple type (string or number)','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (8,'calendar',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(8,'Простое','Указывает на тип обьекта, который будет отображен на экране. Тип является датой','РУС'); 
+values(8,'РџСЂРѕСЃС‚РѕРµ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ РґР°С‚РѕР№','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(8,'Просте','Вказує на тип об`єкту, який буде відображено на экрані. Тип є датою','УКР'); 
+values(8,'РџСЂРѕСЃС‚Рµ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РґР°С‚РѕСЋ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(8,'Simple','Indicates that type of object that will be displayed on the screen is date type','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (9,'radio',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(9,'Переключатель','Указывает на тип обьекта, который будет отображен на экране. Тип является списком с единичным выбором','РУС'); 
+values(9,'РџРµСЂРµРєР»СЋС‡Р°С‚РµР»СЊ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ СЃРїРёСЃРєРѕРј СЃ РµРґРёРЅРёС‡РЅС‹Рј РІС‹Р±РѕСЂРѕРј','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(9,'Перемикач','Вказує на тип об`єкту, який буде відображено на экрані. Тип є списком з одиничним вибором','УКР'); 
+values(9,'РџРµСЂРµРјРёРєР°С‡','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” СЃРїРёСЃРєРѕРј Р· РѕРґРёРЅРёС‡РЅРёРј РІРёР±РѕСЂРѕРј','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(9,'RadioButton','Indicates that type of object that will be displayed on the screen is RadioButton type','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (10,'lov',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(10,'Выбор','Указывает на тип обьекта, который будет отображен на экране. Тип является - поле со списком','РУС'); 
+values(10,'Р’С‹Р±РѕСЂ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ - РїРѕР»Рµ СЃРѕ СЃРїРёСЃРєРѕРј','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(10,'Вибір','Вказує на тип об`єкту, який буде відображено на экрані. Тип є випадаючим списком','УКР'); 
+values(10,'Р’РёР±С–СЂ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РІРёРїР°РґР°СЋС‡РёРј СЃРїРёСЃРєРѕРј','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(10,'ComboBox','Indicates that type of object that will be displayed on the screen is ComboBox type','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (11,'checkbox',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(11,'Выбор','Указывает на тип обьекта, который будет отображен на экране. Тип является - поле флажок','РУС'); 
+values(11,'Р’С‹Р±РѕСЂ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ - РїРѕР»Рµ С„Р»Р°Р¶РѕРє','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(11,'Вибір','Вказує на тип об`єкту, який буде відображено на экрані. Тип є поле Флаг','УКР'); 
+values(11,'Р’РёР±С–СЂ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РїРѕР»Рµ Р¤Р»Р°Рі','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(11,'Checkbox','Indicates that type of object that will be displayed on the screen is Сheckbox type','ENG'); 
+values(11,'Checkbox','Indicates that type of object that will be displayed on the screen is РЎheckbox type','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (12,'lov_multy',1);
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(12,'Выбор','Указывает на тип обьекта, который будет отображен на экране. Тип является - поле с множественным выбором в котором можно отметить один и более значений','РУС'); 
+values(12,'Р’С‹Р±РѕСЂ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ - РїРѕР»Рµ СЃ РјРЅРѕР¶РµСЃС‚РІРµРЅРЅС‹Рј РІС‹Р±РѕСЂРѕРј РІ РєРѕС‚РѕСЂРѕРј РјРѕР¶РЅРѕ РѕС‚РјРµС‚РёС‚СЊ РѕРґРёРЅ Рё Р±РѕР»РµРµ Р·РЅР°С‡РµРЅРёР№','RUS');
 insert into icredit.dic_values (id,name,comment,localisation) 
-values(12,'Вибір','Вказує на тип об`єкту, який буде відображено на экрані. Тип є поле з множинним вибором у якому можно вибраби більше одного значення','УКР'); 
+values(12,'Р’РёР±С–СЂ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РїРѕР»Рµ Р· РјРЅРѕР¶РёРЅРЅРёРј РІРёР±РѕСЂРѕРј Сѓ СЏРєРѕРјСѓ РјРѕР¶РЅРѕ РІРёР±СЂР°Р±Рё Р±С–Р»СЊС€Рµ РѕРґРЅРѕРіРѕ Р·РЅР°С‡РµРЅРЅСЏ','UKR');
 insert into icredit.dic_values (id,name,comment,localisation) 
 values(12,'MultiValueGroup','Indicates that type of object that will be displayed on the screen is Multi Value Group type for choice one or two values','ENG'); 
 
 INSERT INTO icredit.dic_field_view_type (id, value, active)
 VALUES (1036,'integer',1);
 insert into icredit.dic_values (id,name,comment,localisation)
-values(1036,'Число','Указывает на тип обьекта, который будет отображен на экране. Тип является - числолвым полем без дробной части','РУС');
+values(1036,'Р§РёСЃР»Рѕ','РЈРєР°Р·С‹РІР°РµС‚ РЅР° С‚РёРї РѕР±СЊРµРєС‚Р°, РєРѕС‚РѕСЂС‹Р№ Р±СѓРґРµС‚ РѕС‚РѕР±СЂР°Р¶РµРЅ РЅР° СЌРєСЂР°РЅРµ. РўРёРї СЏРІР»СЏРµС‚СЃСЏ - С‡РёСЃР»РѕР»РІС‹Рј РїРѕР»РµРј Р±РµР· РґСЂРѕР±РЅРѕР№ С‡Р°СЃС‚Рё','RUS');
 insert into icredit.dic_values (id,name,comment,localisation)
-values(1036,'Число','Вказує на тип об`єкту, який буде відображено на экрані. Тип є поле число без дробної частини','УКР');
+values(1036,'Р§РёСЃР»Рѕ','Р’РєР°Р·СѓС” РЅР° С‚РёРї РѕР±`С”РєС‚Сѓ, СЏРєРёР№ Р±СѓРґРµ РІС–РґРѕР±СЂР°Р¶РµРЅРѕ РЅР° СЌРєСЂР°РЅС–. РўРёРї С” РїРѕР»Рµ С‡РёСЃР»Рѕ Р±РµР· РґСЂРѕР±РЅРѕС— С‡Р°СЃС‚РёРЅРё','UKR');
 insert into icredit.dic_values (id,name,comment,localisation)
 values(1036,'MultiValueGroup','Indicates that type of object that will be displayed on the screen is integer with out float','ENG');
 
