@@ -1,0 +1,5 @@
+﻿
+  CREATE SEQUENCE icredit.seq_contacts_page_number_access
+  INCREMENT 1 MINVALUE 1
+  MAXVALUE 999999999999999 START 1
+  CACHE 1;
