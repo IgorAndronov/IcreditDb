@@ -1,0 +1,1 @@
+﻿update icredit.contacts_access  set field_view_type = 'block' where field_view_type = 'table';

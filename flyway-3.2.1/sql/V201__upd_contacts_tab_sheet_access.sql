@@ -1,0 +1,1 @@
+update icredit.contacts_tab_sheet_access set field_view_type = 'tab_sheet' where field_view_type = 'page';
