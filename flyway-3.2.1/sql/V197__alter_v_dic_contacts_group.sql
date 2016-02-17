@@ -1,5 +1,5 @@
---ALTER VIEW icredit.v_dic_name_contacts_block
---  RENAME TO v_dic_contacts_group;
+ALTER VIEW icredit.v_dic_name_contacts_block
+  RENAME TO v_dic_contacts_group;
 
   DROP VIEW icredit.v_dic_contacts_group;
 
