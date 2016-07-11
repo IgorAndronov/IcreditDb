@@ -11,7 +11,7 @@ VALUES
 
 INSERT INTO icredit.contacts_pwd ("created", "created_by", "last_updated", "last_updated_by", "id_contact", "login_name", "pwd")
 VALUES
-  ('2016-01-31 19:32:57', 1, '2016-01-31 19:32:57', 1, 2, 'ANDEONOV@I.UA', '12345');
+  ('2016-01-31 19:32:57', 1, '2016-01-31 19:32:57', 1, 2, 'igor.emailplace@gmail.com', '123');
   /* Data for the 'icredit.contacts_phones' table  (Records 1 - 1) */
 
 INSERT INTO icredit.contacts_phones ("created", "created_by", "last_updated", "last_updated_by", "id_contact", "phone_number", "phone_type", "active", "use_for_sms")
